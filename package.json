@@ -1,0 +1,9 @@
+{
+  "name": "snow",
+  "version": "0.0.1",
+  "description": "snow",
+  "main": "index.js",
+  "repository": "https://github.com/lingjieee/snow.git",
+  "author": "jieee",
+  "license": "MIT"
+}

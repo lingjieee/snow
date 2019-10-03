@@ -1,0 +1,8 @@
+{
+  "name": "@snow/cli",
+  "version": "0.0.1",
+  "description": "snow cli",
+  "main": "index.js",
+  "author": "jieee",
+  "license": "MIT"
+}

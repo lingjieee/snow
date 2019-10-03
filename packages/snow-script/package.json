@@ -1,0 +1,8 @@
+{
+  "name": "@snow/script",
+  "version": "0.0.1",
+  "description": "snow script",
+  "main": "index.js",
+  "author": "jieee",
+  "license": "MIT"
+}
